@@ -1,4 +1,4 @@
-# To Do List
+# To-Do List
 
 Manage Tasks and Projects via a graphical user interface.
 
