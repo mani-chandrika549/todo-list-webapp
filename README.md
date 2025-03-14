@@ -28,6 +28,3 @@ Project tasks window:
 
 ![Project Tasks Window](screenshots/project_tasks.png?raw=true "Project Tasks Window")
 
-## Licence
-
-This project is licensed under the MIT License - see the LICENSE.md file for details"# todo-list-webapp" 
